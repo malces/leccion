@@ -3,8 +3,8 @@ Requisitos Funcionales (5 Puntos): 1.75 Puntos. No funciona bien la busqueda. No
 Errores Manejados o no tiene en consola (2 Puntos): 1 Punto. No tiene errores de consola. No valido texto en mayusculas o minusculas
 Buen Uso de Funciones, Ciclos y DRY (2 Puntos): 1 Punto.  No uso funciones de manera apropiada. Si tiene algunos ciclos de repeticion y su codigo no esta tan repetitivo.
 Comentarios (1 Punto): 0 Puntos. No tiene comentarios.
-Subio bien a github (1 Punto bonus): 1 Puntos. No me agrego como colaborador.
-Total: 4.75 Puntos.
+Subio bien a github (1 Punto bonus): 0.5 Puntos. No me agrego como colaborador.
+Total: 4.25 Puntos.
 
 Comentarios Profesor:
 No cumplio con el requisito basico de usar la estructura de Arreglo de objetos.
